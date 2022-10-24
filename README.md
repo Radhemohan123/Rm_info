@@ -25,7 +25,7 @@
             <TH>OLD PERCENTAGE</TH>
             <TH>NEW TOTAL</TH>
             <TH>NEW PERCENTAGE</TH>            </TR>
-        
+        </TR>
         <TR>
             <TD>RADHE MOHAN</TD>
             <TD>69 MARKS</TD>
@@ -41,23 +41,5 @@
             <TD>N/A%</TD>
         </TR>
        </TABLE>
-       <BR>
-        
-     <CAPTION>RESULT OF ANNUAL EXAM</CAPTION>
-       <TABLE align="CENTER" border="1">
-        <TR> 
-            <TH>NAME</TH>
-            <TH>SOCIAL SCIENCE</TH>
-            <TH>SCIENCE</TH>
-            <TH>MATHEMATICS</TH>
-            <TH>SANSKRIT</TH>
-            <TH>HINDI</TH>
-            <TH>M.ED</TH>
-            <TH>OLD TOTAL</TH>
-            <TH>OLD PERCENTAGE</TH>
-            <TH>NEW TOTAL</TH>
-            <TH>NEW PERCENTAGE</TH> 
-        </TR>
-        
-    </BODY>
+       
     </HTML>
