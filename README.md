@@ -1,15 +1,7 @@
 <HTML>
-  <head>
-    <title>RM_WEBPAGE</title>
-  </head>
+  
   <BODY>
-    <OL TYPE="i">
-      <H1>TOPPER NAMES</H1>
-      <LI>RAM</LI>
-      <LI>SHYAM</LI>
-      <LI>MOHAN</LI>
-    </OL>
-    <BR>
+    
      <CAPTION>RESULT OF HALF YEARLY EXAM</CAPTION>
        <TABLE align="CENTER" border="1" height=5% width=5% cellpadding="1">
         <TR>
