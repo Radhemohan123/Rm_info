@@ -1,0 +1,63 @@
+<HTML>
+  <head>
+    <title>RM_WEBPAGE</title>
+  </head>
+  <BODY>
+    <OL TYPE="i">
+      <H1>TOPPER NAMES</H1>
+      <LI>RAM</LI>
+      <LI>SHYAM</LI>
+      <LI>MOHAN</LI>
+    </OL>
+    <BR>
+     <CAPTION>RESULT OF HALF YEARLY EXAM</CAPTION>
+       <TABLE align="CENTER" border="1" height=5% width=5% cellpadding="1">
+        <TR>
+            <TH>NAME</TH>
+            <TH>SOCIAL SCIENCE</TH>
+            <TH>SCIENCE</TH>
+            <TH>MATHEMATICS</TH>
+            <TH>SANSKRIT</TH>
+            <TH>HINDI</TH>
+            <TH>ENGLISH</TH>
+            <TH>M.ED</TH>
+            <TH>OLD TOTAL</TH>
+            <TH>OLD PERCENTAGE</TH>
+            <TH>NEW TOTAL</TH>
+            <TH>NEW PERCENTAGE</TH>            </TR>
+        
+        <TR>
+            <TD>RADHE MOHAN</TD>
+            <TD>69 MARKS</TD>
+            <TD>77 MARKS</TD>
+            <TD>71 MARKS</TD>
+            <TD>67 MARKS</TD>
+            <TD>68 MARKS</TD>
+            <TD>70 MARKS</TD>
+            <TD>60 MARKS</TD>
+            <TD>482</TD>
+            <TD>86%</TD>
+            <TD>N/A</TD>
+            <TD>N/A%</TD>
+        </TR>
+       </TABLE>
+       <BR>
+        
+     <CAPTION>RESULT OF ANNUAL EXAM</CAPTION>
+       <TABLE align="CENTER" border="1">
+        <TR> 
+            <TH>NAME</TH>
+            <TH>SOCIAL SCIENCE</TH>
+            <TH>SCIENCE</TH>
+            <TH>MATHEMATICS</TH>
+            <TH>SANSKRIT</TH>
+            <TH>HINDI</TH>
+            <TH>M.ED</TH>
+            <TH>OLD TOTAL</TH>
+            <TH>OLD PERCENTAGE</TH>
+            <TH>NEW TOTAL</TH>
+            <TH>NEW PERCENTAGE</TH> 
+        </TR>
+        
+    </BODY>
+    </HTML>
